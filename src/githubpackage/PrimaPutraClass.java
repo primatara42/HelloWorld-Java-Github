@@ -1,6 +1,6 @@
 package githubpackage;
 
-public class Main
+public class PrimaPutraClass
 {
     public static void main(String[] args) {
         System.out.println("Hello world!");
